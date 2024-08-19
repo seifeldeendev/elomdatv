@@ -12,7 +12,8 @@
         او عن طريق قناة التيليجرام الخاصة بنا
         https://t.me/el3omdatv
         </description>
-        <enclosure url="https://el3omdatv.blogspot.com" sparkle:version="1.1" sparkle:os="android" />
+        <enclosure url="https://el3omdatv.blogspot.com" sparkle:version="1.1" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
 </channel>
 </rss>
