@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
-    <title>For unit test only</title>
+    <title>Elomda TV</title>
     <item>
-        <title>Version 3.0</title>
-        <description>Minor updates and improvements.</description>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
+        <title>Version 1.1</title>
+        <description>تصحيح بعض الاخطاء و دعم كامل لأندرويد 13 +.
+        الرجاء تحديث التطبيق و المشغل </description>
+        <enclosure url="https://el3omdatv.blogspot.com/" sparkle:version="1.1" sparkle:os="android" />
     </item>
-    <!-- A release testing minimumSystemVersion -->
 </channel>
 </rss>
