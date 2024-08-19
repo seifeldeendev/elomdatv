@@ -4,9 +4,15 @@
     <title>Elomda TV</title>
     <item>
         <title>Version 1.1</title>
-        <description>تصحيح بعض الاخطاء و دعم كامل لأندرويد 13 +.
-        الرجاء تحديث التطبيق و المشغل </description>
-        <enclosure url="https://el3omdatv.blogspot.com/" sparkle:version="1.1" sparkle:os="android" />
+        <description>
+        تصحيح بعض الاخطاء و دعم كامل لأندرويد 13 +.
+        الرجاء تحديث التطبيق و المشغل
+        يمكنكم تحميل التحديث عن طريق موقعنا الرسمي
+        https://el3omdatv.blogspot.com
+        او عن طريق قناة التيليجرام الخاصة بنا
+        https://t.me/el3omdatv
+        </description>
+        <enclosure url="https://el3omdatv.blogspot.com" sparkle:version="1.1" sparkle:os="android" />
     </item>
 </channel>
 </rss>
