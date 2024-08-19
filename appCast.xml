@@ -2,5 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
     <title>Elomda TV</title>
+    <item>
+        <title>Version 1.1</title>
+        <description>تصحيح بعض الاخطاء و دعم كامل لأندرويد 13 +.
+        الرجاء تحديث التطبيق و المشغل </description>
+        <enclosure url="https://el3omdatv.blogspot.com/" sparkle:version="1.1" sparkle:os="android" />
+        <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion>
+    </item>
 </channel>
 </rss>
