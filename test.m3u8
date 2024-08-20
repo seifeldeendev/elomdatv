@@ -1,4 +1,6 @@
-#EXTM3U
-#EXTINF:-1,Test Channel
+#EXTM3U 
+#EXT-X-VERSION:3
+
 #EXTVLCOPT:http-user-agent=Aloka1356
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
 https://l.033055.xyz/live/aloka357100/aloka357100/22.m3u8
