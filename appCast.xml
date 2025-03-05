@@ -3,7 +3,7 @@
 <channel>
     <title>Elomda TV</title>
         <item>
-        <title>Version 1.3</title>
+        <title>Version 1.3.1</title>
 <description>
     تم تحديث التطبيق لدعم كامل لأندرويد 13 وما فوق.
     تم تعديل الخوارزمية في التعامل مع السيرفرات لتحسين الأداء.
@@ -18,7 +18,7 @@
     أو من خلال قناة التيليجرام الخاصة بنا:
     https://t.me/el3omdatv
 </description>
-        <enclosure url="https://t.me/el3omdatv/130" sparkle:version="1.3" />
+        <enclosure url="https://t.me/el3omdatv/130" sparkle:version="1.3.1" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
 </channel>
