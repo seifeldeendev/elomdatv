@@ -3,22 +3,17 @@
 <channel>
     <title>Elomda TV</title>
         <item>
-        <title>Version 1.3.1</title>
+        <title>Version 1.3.2</title>
 <description>
-    تم تحديث التطبيق لدعم كامل لأندرويد 13 وما فوق.
-    تم تعديل الخوارزمية في التعامل مع السيرفرات لتحسين الأداء.
-    تم نقل السيرفرات إلى المشغل لتحسين تجربة المستخدم ودعم سيرفرات جديدة.
-    إضافة القنوات الناقلة داخل المباريات.
-    تم إضافة المسلسلات الخاصة بشهر رمضان 2024 و 2025.
-    تغيير شكل التطبيق لتحسين واجهة المستخدم.
-    دعم كامل لسيرفرات تود لتحسين الجودة والأداء.
+    دعم كامل لسيرفرات TOD و بعض السيرفرات الأخري داخل المشغل الداخلي 
+    لتحسين تجرب المستخم
     يُرجى تحديث التطبيق والمشغل للحصول على تجربة أفضل.
     يمكنكم تحميل التحديث عبر موقعنا الرسمي:
     https://el3omdatv.blogspot.com
     أو من خلال قناة التيليجرام الخاصة بنا:
     https://t.me/el3omdatv
 </description>
-        <enclosure url="https://t.me/el3omdatv/130" sparkle:version="1.3.1" />
+        <enclosure url="https://t.me/el3omdatv/156" sparkle:version="1.3.2" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
 </channel>
